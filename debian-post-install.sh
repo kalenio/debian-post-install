@@ -13,7 +13,7 @@ sudo apt update
 # Installs the following apt packages:
 #------------
 # Timeshift
-# Firefox (Extended Support Release)
+# Firefox ESR (Extended Support Release)
 # Neofetch
 # Flatpak
 # VSCodium
