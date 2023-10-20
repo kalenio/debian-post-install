@@ -22,8 +22,9 @@ sudo apt update
 # VLC
 # Virtual Machine Manager
 # KDE Spectacle (screenshot utility)
+# Synaptic
 #------------
-sudo apt install timeshift firefox-esr neofetch flatpak codium ark qt5-style-kvantum vlc virt-manager kde-spectacle -y
+sudo apt install timeshift firefox-esr neofetch flatpak codium ark qt5-style-kvantum vlc virt-manager kde-spectacle synaptic -y
 
 # Installs Flatpak compatibility for Plasma's Discover software center
 sudo apt install plasma-discover-backend-flatpak
