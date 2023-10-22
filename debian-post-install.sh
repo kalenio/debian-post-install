@@ -24,8 +24,9 @@ sudo apt update
 # KDE Spectacle (screenshot utility)
 # Synaptic
 # Curl
+# TigerVNC
 #------------
-sudo apt install timeshift firefox-esr neofetch flatpak codium ark qt5-style-kvantum vlc virt-manager kde-spectacle synaptic curl -y
+sudo apt install timeshift firefox-esr neofetch flatpak codium ark qt5-style-kvantum vlc virt-manager kde-spectacle synaptic curl tigervnc-viewer -y
 
 # Installs Flatpak compatibility for Plasma's Discover software center
 sudo apt install plasma-discover-backend-flatpak
