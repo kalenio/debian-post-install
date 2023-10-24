@@ -9,7 +9,7 @@ Download and execute the debian-post-install.sh script.
 ```bash
 # Fetches install script from github and downloads it to the specified directory (i.e. /home/USER/Downloads)
 
-wget https://raw.githubusercontent.com/kalenio/debian-post-install/master/debian-post-install.sh -P ~/Downloads | /bin/bash -P ~/Downloads | /bin/bash
+wget https://raw.githubusercontent.com/kalenio/debian-post-install/master/debian-post-install.sh -P ~/Downloads | /bin/bash
 
 # Makes the script executable
 chmod +x ~/Downloads/debian-post-install.sh
