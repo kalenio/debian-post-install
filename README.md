@@ -8,7 +8,7 @@ _Probably_ works with Debian derivitives such as Ubuntu.
 Download and execute the debian-post-install.sh script. 
 ```bash
 # Fetches install script from github and downloads it to the specified directory (i.e. /home/USER/Downloads)
-wget https://raw.githubusercontent.com/kalenio/debian-post-install/main/debian-post-install.sh -P ~/Downloads | /bin/bash
+wget wget https://raw.githubusercontent.com/kalenio/debian-post-install/main/debian-post-install.sh -P ~/Downloads | /bin/bash -P ~/Downloads | /bin/bash
 
 # Makes the script executable
 chmod +x ~/Downloads/debian-post-install.sh
